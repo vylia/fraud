@@ -1,4 +1,6 @@
-A financial analysis of a synthetic database from Kaggle. Source: https://www.kaggle.com/datasets/umitka/synthetic-financial-fraud-dataset?resource=download
+A financial analysis of a synthetic database from Kaggle.
+
+Source: https://www.kaggle.com/datasets/umitka/synthetic-financial-fraud-dataset?resource=download
 
 ## About Dataset
 
